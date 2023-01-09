@@ -27,7 +27,7 @@ zipp==3.11.0
  - (1) for admin
  - (2) for user
  # steps to register
- - open link and register user
+ - open link and register users
  - then login using username and password
  - add questions
  - user other username and password to login and take quiz
