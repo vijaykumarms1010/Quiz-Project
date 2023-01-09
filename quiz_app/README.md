@@ -1,7 +1,7 @@
 **Quiz **
 ==========
  - python -m pip install requirements.txt
- - 
+ 
 
 # paste this in requirements.txt file--->
 bcrypt==4.0.1
