@@ -1,2 +1,2 @@
 # Quiz-Project
- Developed Quiz application using Django and SQLAlchemy.
+ Developed Quiz application using Flask and SQLAlchemy.
